@@ -1,0 +1,7 @@
+{
+    "host": "localhost",
+    "username": "hoteluser",
+    "password": "hotelpass",
+    "db": "hotel"
+  }
+  
